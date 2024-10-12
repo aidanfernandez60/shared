@@ -1,3 +1,3 @@
 print("hello world")
 
-def main:
+def main
